@@ -1,0 +1,9 @@
+maintxnode.o: mainTxNode.c
+maintxnode.o: C:\KeilARM\ARM\INC\Philips\lpc21xx.h
+maintxnode.o: types.h
+maintxnode.o: can.h
+maintxnode.o: delay.h
+maintxnode.o: lcd.h
+maintxnode.o: ADC.h
+maintxnode.o: adc_defines.h
+maintxnode.o: gp2d12.h

@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\KeilARM\ARM\INC" -I "C:\KeilARM\ARM\INC\Philips" -o "maincan_rxtest.o" --omf_browse "maincan_rxtest.crf" --depend "maincan_rxtest.d" "mainCAN_RxTest.c"

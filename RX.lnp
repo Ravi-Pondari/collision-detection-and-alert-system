@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "can.o" "maincan_rxtest.o" "delay.o" "gp2d12.o" "adc.o" "lcd.o" --strict --scatter "RX.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\RX.map" -o "RX.axf"
